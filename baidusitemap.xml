@@ -3,6 +3,21 @@
 
 
     
+  <url>
+    <loc>http://yoursite.com/2017/05/16/Third-0/</loc>
+    <lastmod>2017-05-16T09:24:36.000Z</lastmod>
+    <data>
+        <display>
+        <title>Third</title>
+        <pubTime>2017-05-16T06:26:50.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
     
     
     
@@ -15,21 +30,6 @@
         <display>
         <title>Second</title>
         <pubTime>2017-05-16T06:24:32.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/05/16/Third-0/</loc>
-    <lastmod>2017-05-16T06:26:51.000Z</lastmod>
-    <data>
-        <display>
-        <title>Third</title>
-        <pubTime>2017-05-16T06:26:50.000Z</pubTime>
         
          
            
