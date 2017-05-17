@@ -4,14 +4,14 @@ This is my own Blog [Demo| wenlisu's Blog](https://wenlisu.github.io/)
 Powered by Hexo [Theme](https://hexo.io) - [NexT.Muse](https://github.com/iissnan/hexo-theme-next)
 
 
-###Install
+### Install
 
 ```
 git clone https://github.com/wenlisu/blog_source
 ```
 
 
-###generate && server
+### generate && server
 
 ```
 hexo generate || hexo g #
@@ -20,7 +20,7 @@ hexo server   || hexo s #
 Starts a local server. By default, this is at http://localhost:4000/. 
 
 
-###Each step of the deployment, according to the following three steps to carry out
+### Each step of the deployment, according to the following three steps to carry out
 
 ```
 hexo clean
