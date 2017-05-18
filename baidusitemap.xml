@@ -3,16 +3,13 @@
 
 
     
-    
-    
-    
   <url>
-    <loc>http://yoursite.com/2017/05/16/second/</loc>
-    <lastmod>2017-05-17T05:53:52.000Z</lastmod>
+    <loc>http://yoursite.com/2017/05/18/hello-world/</loc>
+    <lastmod>2017-05-18T03:50:45.000Z</lastmod>
     <data>
         <display>
-        <title>Second</title>
-        <pubTime>2017-05-16T06:24:32.000Z</pubTime>
+        <title>HEXO+Github,搭建属于自己的博客</title>
+        <pubTime>2017-05-18T02:08:21.000Z</pubTime>
         
          
            
@@ -24,13 +21,16 @@
     </url>
 
     
+    
+    
+    
   <url>
-    <loc>http://yoursite.com/2017/05/16/hello-world/</loc>
-    <lastmod>2017-05-17T05:53:49.000Z</lastmod>
+    <loc>http://yoursite.com/2017/05/16/second/</loc>
+    <lastmod>2017-05-17T05:53:52.000Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2017-05-16T04:10:01.000Z</pubTime>
+        <title>Second</title>
+        <pubTime>2017-05-16T06:24:32.000Z</pubTime>
         
          
            
