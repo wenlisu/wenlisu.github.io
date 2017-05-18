@@ -3,39 +3,18 @@
 
 
     
-    
-    
-    
   <url>
-    <loc>http://yoursite.com/2017/05/16/second/</loc>
-    <lastmod>2017-05-17T05:53:52.000Z</lastmod>
+    <loc>http://yoursite.com/2017/05/18/hello-world/</loc>
+    <lastmod>2017-05-18T08:31:33.000Z</lastmod>
     <data>
         <display>
-        <title>Second</title>
-        <pubTime>2017-05-16T06:24:32.000Z</pubTime>
+        <title>HEXO+Github,搭建属于自己的博客</title>
+        <pubTime>2017-05-18T02:08:21.000Z</pubTime>
         
          
            
              
-            <breadCrumb title="IT" url="http://yoursite.com/categories/IT/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/05/16/hello-world/</loc>
-    <lastmod>2017-05-17T05:53:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-05-16T04:10:01.000Z</pubTime>
-        
-         
-           
-             
-            <breadCrumb title="IT" url="http://yoursite.com/categories/IT/"/>
+            <breadCrumb title="手册" url="http://yoursite.com/categories/%E6%89%8B%E5%86%8C/"/>
           
         </display>
     </data>
@@ -44,7 +23,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/05/16/Third-0/</loc>
-    <lastmod>2017-05-17T05:53:40.000Z</lastmod>
+    <lastmod>2017-05-18T04:02:31.000Z</lastmod>
     <data>
         <display>
         <title>Third</title>
@@ -53,12 +32,33 @@
          
            
              
-            <breadCrumb title="IT" url="http://yoursite.com/categories/IT/"/>
+            <breadCrumb title="手册" url="http://yoursite.com/categories/%E6%89%8B%E5%86%8C/"/>
           
         </display>
     </data>
     </url>
 
+    
+  <url>
+    <loc>http://yoursite.com/2017/05/16/second/</loc>
+    <lastmod>2017-05-18T04:02:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>Second</title>
+        <pubTime>2017-05-16T06:24:32.000Z</pubTime>
+        
+         
+           
+             
+            <breadCrumb title="手册" url="http://yoursite.com/categories/%E6%89%8B%E5%86%8C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
     
     
 </urlset>

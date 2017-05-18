@@ -5,8 +5,8 @@
 # Site
 title: LS
 subtitle:
-description: 每一个不曾起舞的日子都是对生命的辜负。
-author: Alice Wen
+description: Do what you say,say what you do.
+author: LS
 language: zh-Hans
 timezone:
 
@@ -69,5 +69,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
      type: git
-     repo: https://github.com/wenlisu/wenlisu.github.io.git
+     repo: https://github.com/wenlisu/wenlisu.github.com.git
      branch: master
