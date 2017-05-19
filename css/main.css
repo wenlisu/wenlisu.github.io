@@ -1230,6 +1230,9 @@ pre .javascript .function {
 .posts-collapse .collection-title h2 {
   margin-left: 20px;
 }
+.posts-collapse .collection-title h1 {
+  margin-left: 20px;
+}
 .posts-collapse .collection-title small {
   color: #bbb;
   margin-left: 5px;
@@ -1610,10 +1613,10 @@ pre .javascript .function {
 .site-author-image {
   display: block;
   margin: 0 auto;
-  padding: 2px;
-  max-width: 96px;
+  padding: 0px;
+  max-width: 100%;
   height: auto;
-  border: 2px solid #333;
+  border: 0px solid #333;
 }
 .site-author-name {
   margin: 5px 0 0;
@@ -1626,6 +1629,13 @@ pre .javascript .function {
   text-align: center;
   font-size: 14px;
   color: #999;
+}
+.site-author-image-box {
+  margin: 0 auto;
+  overflow: hidden;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
 }
 .site-state {
   overflow: hidden;
@@ -1695,7 +1705,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #58306e;
+  background: #ff81f6;
 }
 .links-of-blogroll {
   font-size: 13px;
