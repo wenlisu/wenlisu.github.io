@@ -1,7 +1,7 @@
 # Blog Source
 This is my own Blog [Demo| wenlisu's Blog](https://wenlisu.github.io/)
 
-Powered by Hexo [Theme](https://hexo.io) - [NexT.Muse](https://github.com/iissnan/hexo-theme-next)
+Powered by Hexo [Theme](https://hexo.io) - Style by [NexT.Muse](https://github.com/iissnan/hexo-theme-next)
 
 
 ### Install

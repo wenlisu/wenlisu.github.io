@@ -118,7 +118,7 @@ Hi username! You've successfully authenticated, but GitHub does not
 # provide shell access.
 ```
 
-如果用户名是正确的,你已经成功设置SSH密钥。如果你看到 “access denied” ，者表示拒绝访问，那么你就需要使用 https 去访问，而不是 SSH 。
+如果用户名是正确的,你已经成功设置SSH密钥。如果你看到 “access denied” ，则表示拒绝访问，那么你就需要使用 https 去访问，而不是 SSH 。
 
 接着下来安装Hexo。
 
@@ -154,7 +154,7 @@ $ hexo server   || hexo s
 ```
 
 启动本地服务器，默认情况下，打开`http://localhost:4000/`。  
-到目前状态下，个人博客雏形基本已经完成，接下来，将如何将Hexo生成的静态网页内容目录放到Github上，打开博客根目录下的_config.yml在最下方加上。
+到目前状态下，个人博客雏形基本已经完成，接下来，将如何把Hexo生成的静态网页内容目录放到Github上，打开博客根目录下的_config.yml在最下方加上。
 
 ```
 deploy:

@@ -8,4 +8,3 @@ type: "image"
     <li>![](/images/index/logo.jpg)</li>
     <li>![](/images/index/logo.jpg)</li>
 </ul>
-

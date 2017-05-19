@@ -1705,7 +1705,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff81f6;
+  background: #28ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2574,6 +2574,7 @@ li {
   flex-direction: row;
   justify-content: space-between;
   margin-top: 20px;
+  padding: 0;
 }
 .img-box-ul li {
   display: flex;
