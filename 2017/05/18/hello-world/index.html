@@ -117,7 +117,7 @@
 <meta property="og:image" content="http://ww3.sinaimg.cn/large/006tKfTcgy1ffplg4xs2kj30xp0kb40y.jpg">
 <meta property="og:image" content="http://ww4.sinaimg.cn/large/006tKfTcgy1ffpmwc2yyjj30vd0jqdlr.jpg">
 <meta property="og:image" content="http://ww4.sinaimg.cn/large/006tKfTcgy1ffpmx1sdisj30uk0e3taf.jpg">
-<meta property="og:updated_time" content="2017-05-19T02:56:45.000Z">
+<meta property="og:updated_time" content="2017-05-19T02:58:14.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="HEXO+Github,搭建属于自己的博客">
 <meta name="twitter:description" content="前言一直都想拥有个属于自己的博客，之前买过域名做过静态展示类型的个人网站，苦于那时的自己对数据库操作不怎么了解，所以没有将其继续发展成动态网站并且维护下去，那时觉得自己需要搭建个动态博客，应该不只要会前端，后台至少也应该要懂些。直到偶然的机会让我遇到了Hexo。Hexo+Github的结合让谁都能轻轻松松搭建起属于自己的博客，相当COOL，相信不久的将来，Hexo就会流行起来。Hexo出自于台湾大">
@@ -460,7 +460,7 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ hexo init &lt;folder&gt;</div><div class="line">$ cd &lt;folder&gt;</div></pre></td></tr></table></figure>
 <h2 id="安装依赖包"><a href="#安装依赖包" class="headerlink" title="安装依赖包"></a>安装依赖包</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm install</div></pre></td></tr></table></figure>
 <h2 id="生产静态文件-amp-amp-服务"><a href="#生产静态文件-amp-amp-服务" class="headerlink" title="生产静态文件 &amp;&amp; 服务"></a>生产静态文件 &amp;&amp; 服务</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$ hexo generate || hexo g </div><div class="line">$ hexo server   || hexo s</div></pre></td></tr></table></figure>
-<p>启动本地服务器，默认情况下，打开<code>http://localhost:4000/</code>。<br>到目前状态下，个人博客雏形基本已经完成，接下来，将如何将Hexo生成的静态网页内容目录放到Github上，打开博客根目录下的_config.yml在最下方加上。</p>
+<p>启动本地服务器，默认情况下，打开<code>http://localhost:4000/</code>。<br>到目前状态下，个人博客雏形基本已经完成，接下来，将如何把Hexo生成的静态网页内容目录放到Github上，打开博客根目录下的_config.yml在最下方加上。</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">deploy:</div><div class="line">     type: git</div><div class="line">     repo: https://github.com/wenlisu/wenlisu.github.io.git</div><div class="line">     branch: master</div></pre></td></tr></table></figure>
 <p>当执行<code>hexo deploy</code>命令部署到GitHub上的内容目录啦，这时候打开<code>https://wenlisu.github.io</code>就将是自己的博客地址啦，是不是很方便快捷啊，宝宝们赶紧行动起来吧！</p>
 
