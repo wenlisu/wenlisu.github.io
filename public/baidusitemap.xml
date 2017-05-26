@@ -4,8 +4,8 @@
 
     
   <url>
-    <loc>http://yoursite.com/2017/05/18/hello-world/</loc>
-    <lastmod>2017-05-19T02:58:14.000Z</lastmod>
+    <loc>http://yoursite.com/2017/05/18/HEXO+Github%EF%BC%8C%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2017-05-26T13:31:37.000Z</lastmod>
     <data>
         <display>
         <title>HEXO+Github,搭建属于自己的博客</title>
@@ -21,6 +21,23 @@
     </url>
 
     
+  <url>
+    <loc>http://yoursite.com/2017/05/22/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2017-05-26T12:02:47.000Z</lastmod>
+    <data>
+        <display>
+        <title>微信小程序</title>
+        <pubTime>2017-05-22T05:44:16.000Z</pubTime>
+        
+         
+           
+             
+            <breadCrumb title="手册" url="http://yoursite.com/categories/%E6%89%8B%E5%86%8C/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
     
     

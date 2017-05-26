@@ -163,4 +163,11 @@ deploy:
      branch: master
 ```
 
+每一步的部署，按照以下三个步骤进行
+
+```
+$ hexo clean
+$ hexo generate
+$ hexo deploy
+```
 当执行`hexo deploy`命令部署到GitHub上的内容目录啦，这时候打开`https://wenlisu.github.io`就将是自己的博客地址啦，是不是很方便快捷啊，宝宝们赶紧行动起来吧！

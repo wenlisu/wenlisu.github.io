@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2017/05/18/hello-world/</loc>
+    <loc>http://yoursite.com/2017/05/18/HEXO+Github%EF%BC%8C%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</loc>
     
-    <lastmod>2017-05-19T02:58:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/images/index.html</loc>
-    
-    <lastmod>2017-05-19T02:03:41.000Z</lastmod>
+    <lastmod>2017-05-26T13:31:37.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://yoursite.com/2017/05/22/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
     
-    <lastmod>2017-05-17T08:55:18.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
-    
-    <lastmod>2017-05-17T06:30:22.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/baidu_verify_7hwIVj89wY.html</loc>
-    
-    <lastmod>2017-05-16T08:59:48.000Z</lastmod>
+    <lastmod>2017-05-26T12:02:47.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/404.html</loc>
     
-    <lastmod>2017-05-16T07:35:40.000Z</lastmod>
+    <lastmod>2017-05-26T12:02:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2017-05-26T12:02:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2017-05-26T12:02:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/images/index.html</loc>
+    
+    <lastmod>2017-05-26T12:02:47.000Z</lastmod>
     
   </url>
   
