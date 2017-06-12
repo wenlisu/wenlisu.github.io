@@ -3,9 +3,25 @@
 
 
     
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/12/layui/</loc>
+    <lastmod>2017-06-12T04:02:36.000Z</lastmod>
+    <data>
+        <display>
+        <title>简单管理后台，Node+express+mongoose+Layui</title>
+        <pubTime>2017-06-12T01:54:17.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
   <url>
     <loc>http://yoursite.com/2017/05/18/HEXO+Github%EF%BC%8C%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2017-05-26T13:31:37.000Z</lastmod>
+    <lastmod>2017-05-27T10:13:36.000Z</lastmod>
     <data>
         <display>
         <title>HEXO+Github,搭建属于自己的博客</title>
@@ -14,7 +30,7 @@
          
            
              
-            <breadCrumb title="手册" url="http://yoursite.com/categories/%E6%89%8B%E5%86%8C/"/>
+              <breadCrumb title="手册" url="http://yoursite.com/categories/%E6%89%8B%E5%86%8C/"/>
           
         </display>
     </data>
@@ -23,7 +39,7 @@
     
   <url>
     <loc>http://yoursite.com/2017/05/22/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2017-05-26T12:02:47.000Z</lastmod>
+    <lastmod>2017-05-27T10:13:36.000Z</lastmod>
     <data>
         <display>
         <title>微信小程序</title>
@@ -32,13 +48,12 @@
          
            
              
-            <breadCrumb title="手册" url="http://yoursite.com/categories/%E6%89%8B%E5%86%8C/"/>
+              <breadCrumb title="手册" url="http://yoursite.com/categories/%E6%89%8B%E5%86%8C/"/>
           
         </display>
     </data>
     </url>
 
-    
     
     
     
