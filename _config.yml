@@ -76,4 +76,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/wenlisu/wenlisu.github.io.git
-  branch: master
+  branch: new
