@@ -1,7 +1,8 @@
 title: 简单管理后台，Node+express+mongoose+Layui
 author: LS
 date: 2017-06-12 09:54:17
-tags:
+tags: 手册
+categories: 手册
 ---
 前言
 =============

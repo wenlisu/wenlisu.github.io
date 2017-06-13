@@ -14,7 +14,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: posts/:category/:year-:month-:day-:title.html
 permalink_defaults:
 
 # Directory
@@ -46,7 +46,13 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+    手册: programming
+    生活: life
+    其他: other
 tag_map:
+    手册: programming
+    生活: life
+    其他: other
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
@@ -63,7 +69,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next  
+theme: landscape  
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

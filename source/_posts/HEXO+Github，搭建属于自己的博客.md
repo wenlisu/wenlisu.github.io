@@ -1,5 +1,6 @@
 title: 'HEXO+Github,搭建属于自己的博客'
 categories: 手册
+tags: 手册
 date: 2017-05-18 10:08:21
 ---
 前言
